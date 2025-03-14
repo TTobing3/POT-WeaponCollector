@@ -3,6 +3,7 @@
 장르 : `2d` `deckbuilding` `turn-based` `strategy` <br>
 기간 : -  
 인원 : 1명 
+사용 엔진 : 유니티, C#
 
 ( 현재 Repository에는 이미지 유료에셋 사용으로 인해 소스코드만 등록되어 있습니다. )
 
