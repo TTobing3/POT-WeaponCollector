@@ -1,7 +1,7 @@
 # 정보
 이름 : 무기 수집 <br>
 장르 : `2d` `deckbuilding` `turn-based` `strategy` <br>
-기간 : 2024년 개발, 데모 
+기간 : 2024년 개발, 데모 <br> 
 인원 : 1명 <br>
 개발 : 유니티, C#
 
